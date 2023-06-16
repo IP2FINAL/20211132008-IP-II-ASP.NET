@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>News_Asp_Net_Api</name>
+    </assembly>
+    <members>
+        <member name="T:News_Asp_Net_Api.Migrations.DbInit">
+            <inheritdoc />
+        </member>
+        <member name="M:News_Asp_Net_Api.Migrations.DbInit.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:News_Asp_Net_Api.Migrations.DbInit.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:News_Asp_Net_Api.Migrations.DbInit.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

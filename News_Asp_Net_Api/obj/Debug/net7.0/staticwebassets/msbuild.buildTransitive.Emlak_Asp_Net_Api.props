@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\News_Asp_Net_Api.props" />
+</Project>
